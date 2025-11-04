@@ -9,6 +9,7 @@
 
 ### 🚀 Sobre mim
 
+Tenho 19 anos, morador de Petrópolis no Rio de Janeiro  e
 Gosto de transformar **ideias em código** e explorar diferentes áreas da programação —  
 desde o **desenvolvimento web** até **lógica e estrutura de dados**.  
 
