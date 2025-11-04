@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/67ca1439-718d-4d3b-b53d-6defc1088ec8" alt="Banner Nicolas Silva" width="100%">
-</p>
+
 
 <h2 align="left">Olá! 👋 Meu nome é Nicolas</h2>
 
