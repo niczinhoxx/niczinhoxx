@@ -104,3 +104,12 @@ Projeto de banco de dados relacional inspirado em plataformas como Steam e Epic 
 <p align="center">
 ✨ Sempre buscando evoluir e aprender algo novo todos os dias.
 </p>
+
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niczinhohx/niczinhohx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niczinhohx/niczinhohx/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/niczinhohx/niczinhohx/output/github-contribution-grid-snake.svg">
+</picture>
