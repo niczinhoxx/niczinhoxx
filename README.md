@@ -2,16 +2,13 @@
 
 <h2 align="left">Olá! 👋 Meu nome é Nicolas</h2>
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Administração de Banco de Dados**!  
-💻 Meu objetivo é construir uma carreira sólida no mundo da programação e tecnologia.  
-
+🎓 Graduando no curso Análise e Desenvolvimento de Sistemas! 
+💻 Focado desenvolvimento backend e e como Administrador de Banco de Dados! 
+🔍 Buscando estágio e oportunidades para crescer junto com profissionais experientes!
+🎯 Sou um Jovem determinado, ativo, compromissado, pronto para enfrentar novos desafios!
+ 
 ---
 
-### 🚀 Sobre mim
-
-Tenho 19 anos, morador de Petrópolis no Rio de Janeiro  e
-Gosto de transformar **ideias em código** e explorar diferentes áreas da programação —  
-desde o **desenvolvimento web** até **lógica e estrutura de dados**.  
 
 Aqui no GitHub você vai encontrar meus **projetos**, **experimentos** e **estudos**,  
 todos feitos com dedicação e foco em **aprimorar minhas habilidades**.  
