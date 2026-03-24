@@ -1,78 +1,106 @@
+<h1 align="center">👋 Olá, eu sou o Nicolas</h1>
 
-
-<h2 align="left">Olá! 👋 Meu nome é Nicolas</h2>
-
-🎓 Graduando no curso Análise e Desenvolvimento de Sistemas! 
-💻 Focado desenvolvimento backend e e como Administrador de Banco de Dados! 
-🔍 Buscando estágio e oportunidades para crescer junto com profissionais experientes!
-🎯 Sou um Jovem determinado, ativo, compromissado, pronto para enfrentar novos desafios!
- 
----
-
-
-Aqui no GitHub você vai encontrar meus **projetos**, **experimentos** e **estudos**,  
-todos feitos com dedicação e foco em **aprimorar minhas habilidades**.  
-
-📚 Sempre em busca de **novos desafios**, **aprendizados** e **boas práticas de desenvolvimento**.
+<p align="center">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Focado em Backend & Banco de Dados <br>
+🚀 Buscando oportunidade de estágio em TI
+</p>
 
 ---
 
-### 🧠 Tecnologias que utilizo
+## 🚀 Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
+Sou um desenvolvedor em formação com foco em **backend** e **bancos de dados**,  
+buscando minha primeira oportunidade na área de tecnologia.
 
-🗄️ Também trabalho com **Administração de Banco de Dados**.
+📌 Atualmente estudando:
+- Desenvolvimento Backend  
+- Modelagem de Banco de Dados  
+- Boas práticas de programação  
+
+🎯 Objetivo: Me tornar um desenvolvedor backend profissional  
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🧠 Tecnologias
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niczinhoxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niczinhoxx&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,mysql" />
 </div>
 
 ---
 
-### 🌐 Redes e Contatos
+## 🔥 Projetos em destaque
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/nicolas-da-silva-floriano-a55b632b9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:nicolasfloriano811@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://t.me/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
-  <a href="https://www.instagram.com/nicolas_fvs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
+### 🏦 Sistema Bancário - NU Turbo
+🔗 https://github.com/jpedrosl/nubank_turbo
+
+Sistema de banco digital desenvolvido em **SQL (PostgreSQL)** com foco em simular operações reais do mercado financeiro.
+
+🔹 Funcionalidades:
+- Criação e gerenciamento de contas bancárias  
+- Operações financeiras (depósitos, saques e transferências)  
+- Implementação de regras de negócio com **triggers e functions**  
+
+🔹 Destaques:
+- Modelagem de dados completa e estruturada  
+- Simulação de um sistema bancário real  
+- Organização profissional de scripts SQL  
+
+---
+
+### 🎮 Steam DB - Banco de Dados de Jogos
+🔗 https://github.com/niczinhoxx/steam_db
+
+Projeto de banco de dados relacional inspirado em plataformas como Steam e Epic Games.
+
+🔹 Funcionalidades:
+- Cadastro de usuários e jogos  
+- Sistema de biblioteca de jogos  
+- Avaliações e interações entre usuários  
+- Sistema de amizades  
+- Controle de preços  
+
+🔹 Destaques:
+- Uso de **chaves estrangeiras (FK)**  
+- Estrutura relacional bem definida  
+- Modelagem de sistema real  
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niczinhohx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niczinhohx&layout=compact&theme=tokyonight" height="160"/>
 </div>
 
 ---
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJvY3NzeDVubnRydzRvMXhiYzZ6Ymg2YmVieHhkMmU0bGtuemZ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding gif" />
+## 📈 Atividade
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=niczinhohx&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niczinhoxx/niczinhoxx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niczinhoxx/niczinhoxx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niczinhoxx/niczinhoxx/output/pacman-contribution-graph.svg">
-</picture>
+## 🌐 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nicolas-da-silva-floriano-a55b632b9/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:nicolasfloriano811@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+</div>
 
 ---
+
+<p align="center">
+✨ Sempre buscando evoluir e aprender algo novo todos os dias.
+</p>
