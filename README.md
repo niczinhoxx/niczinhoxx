@@ -72,7 +72,7 @@ Projeto de banco de dados relacional inspirado em plataformas como Steam e Epic 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niczinhohx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niczinhohx&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niczinhoxx&layout=compact&theme=tokyonight" height="160"/>
 </div>
 
 ---
@@ -80,7 +80,7 @@ Projeto de banco de dados relacional inspirado em plataformas como Steam e Epic 
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=niczinhohx&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=niczinhoxx&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
