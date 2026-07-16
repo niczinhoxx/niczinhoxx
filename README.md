@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Focado em Backend & Banco de Dados <br>
+💻 Focado em Qualidade de Software (QA) e Testes <br>
 🚀 Buscando oportunidade de estágio em TI
 </p>
 
@@ -10,22 +10,34 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor em formação com foco em **backend** e **bancos de dados**,  
-buscando minha primeira oportunidade na área de tecnologia.
+Sou estudante de ADS e estou construindo experiência prática em Qualidade de Software através de projetos reais.
 
 📌 Atualmente estudando:
-- Desenvolvimento Backend  
-- Modelagem de Banco de Dados  
-- Boas práticas de programação  
+  Testes Manuais
+  - Postman
+  - Jira
+  - SQL
+  - PostgreSQL
+  - Git e GitHub
+  - Python  
 
-🎯 Objetivo: Me tornar um desenvolvedor backend profissional  
+🎯 Objetivo: Meu objetivo é atuar como Analista de Testes QA e evoluir para automação de testes.
+ 
 
 ---
 
 ## 🧠 Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,mysql" />
+
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,github" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </div>
 
 ---
