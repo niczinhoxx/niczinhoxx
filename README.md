@@ -105,10 +105,9 @@ Projeto de banco de dados relacional inspirado em plataformas como Steam e Epic 
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:nicolasfloriano811@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<a href="mailto:devnicolassilva@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-
 </div>
 
 ---
