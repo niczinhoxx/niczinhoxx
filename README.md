@@ -2,41 +2,34 @@
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Focado em Qualidade de Software (QA) e Testes <br>
-🚀 Buscando oportunidade de estágio em TI
+💻 Focado em Desenvolvimento Back-End <br>
+🚀 Buscando oportunidade de estágio em TI ou Dev Júnior
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de ADS e estou construindo experiência prática em Qualidade de Software através de projetos reais.
+Sou estudante de ADS e estou construindo experiência prática em Desenvolvimento  de Software através de projetos reais.
 
 📌 Atualmente estudando:
   Testes Manuais
-  - Postman
-  - Jira
-  - SQL
+  - Python
   - PostgreSQL
+  - Java
+  - Spring Boot
   - Git e GitHub
-  - Python  
+    
 
-🎯 Objetivo: Meu objetivo é atuar como Analista de Testes QA e evoluir para automação de testes.
+🎯 Objetivo: Meu objetivo é atuar como Desenvolvedor de Softwares.
  
 
 ---
-
 ## 🧠 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,postgresql,java,spring,git,github" />
 
 </div>
 
