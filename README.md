@@ -13,7 +13,7 @@
 Sou estudante de ADS e estou construindo experiência prática em Desenvolvimento  de Software através de projetos reais.
 
 📌 Atualmente estudando:
-  Testes Manuais
+  
   - Python
   - PostgreSQL
   - Java
